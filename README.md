@@ -1,7 +1,7 @@
 # 💫 About Me
 <div>
   Hi 👋, I'm <b>Krishnaraj G</b><br>
-  I have <b>1.5 years of backend development experience</b> and <b>1 year in Manual Software Testing</b>.<br>
+  I have <b>1.5 years of backend development experience</b> and <b>1+ year in Manual Software Testing</b>.<br>
   I am passionate about building <b>scalable full-stack web applications</b>.<br><br>
   
   Few of the skills I offer are:<br>
